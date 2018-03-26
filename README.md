@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
+# Learning Angular
+
+ Angular getting started with Deborah Kurata
+
+# Description
+
+In this course, learning how to create great web apps and stay up to date on the latest app development technologies, by comimg up to speed quickly with Angular's components, templates, and services. Get there by learning major topics like to set up your environment, learning about components, templates, and data binding and how they work together, discover how to build clean components with strongly-typed code, as well as building nested components and how to use dependency injection to inject the services you build and how to retrieve data using HTTP, navigation and routing.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
