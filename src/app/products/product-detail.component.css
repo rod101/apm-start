@@ -1,0 +1,12 @@
+.borderless td, .borderless th {
+  border: none;
+}
+
+
+table {
+  width: 600px;
+}
+
+th {
+  height: 10px;
+}

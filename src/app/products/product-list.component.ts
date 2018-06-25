@@ -3,7 +3,7 @@ import { IProduct } from './product';
 import { ProductService } from './products.service';
 
 @Component({
-  selector: 'pm-products',
+  // selector: 'pm-products', // No more need
   templateUrl: './product-list.component.html',
   styleUrls: ['./product-list.component.css']
 })
@@ -38,7 +38,6 @@ export class ProductListComponent implements OnInit {
   }
 
   constructor(private _productService: ProductService) {
-  
   }
 
   onRatingClicked(message: string): void {
