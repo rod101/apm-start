@@ -21,8 +21,6 @@ selector: 'pm-root',
  </div>
 </div>
  `
-  ,
-  providers: [ ProductService ]
 })
 
 export class AppComponent {
